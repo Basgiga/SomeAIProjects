@@ -1,4 +1,4 @@
-# Neural Network Models and Perceptrons
+# (just a few) Neural Network Models and Perceptrons
 
 This repository contains Python scripts showcasing various neural network models and perceptron implementations, each tackling specific tasks and illustrating key machine learning concepts.
 
