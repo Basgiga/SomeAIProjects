@@ -21,4 +21,7 @@ This repository contains Python scripts showcasing various neural network models
 #### **4. `p2.py`**
 - Provides a deeper explanation of the XOR problem and its solution with perceptrons.
 
+#### **5. 'QLearnTSP.py'**
+- step by step analysis how Qlearning algorithm learns to solve TSP problem, with visualization!
+
 ---
